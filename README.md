@@ -1,2 +1,1 @@
-# Inventory-Management-System
-Inventory-Management-System for coop organization
+# Inventory-Management-System-
